@@ -1,6 +1,6 @@
 const gameCanvas = document.getElementById('gameCanvas');
 const foodCount = 20;
-const bombCount = 7;
+const bombCount = 5;
 const balls = [];
 let bombs = [];
 let foods = [];
